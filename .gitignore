@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Others
+*.@@@
+*.local
+*.twopts
+/Win32/*
