@@ -36,3 +36,4 @@
 *.local
 *.twopts
 /Win32/*
+/__history/*
